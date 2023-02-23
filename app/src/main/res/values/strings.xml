@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EFM_REGIONAL_APP_IMC_V1</string>
+    <string name="pd">Poids (kilogrammes)</string>
+    <string name="taille">Taille (Metres)</string>
+
+</resources>
